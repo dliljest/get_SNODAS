@@ -1,5 +1,5 @@
 # get_SNODAS
-Bash scripts for downloading and converting SNODAS data from NSIDC.
+Bash scripts for downloading and converting SNODAS data from NSIDC (https://nsidc.org/data/g02158/versions/1).
 
 These scripts download dialy binary NOHRSC SNODAS .tar files from https://noaadata.apps.nsidc.org/.
 
