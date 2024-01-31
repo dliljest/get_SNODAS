@@ -1,6 +1,6 @@
 #!/bin/bash
 # Dane Liljestrand
-# 2023-01-30
+# 2024-01-30
 # Retrieves NOHRSC SNODAS data from National Snow and Ice Data Center (NSDIC) through NOAA server. 
 
 mkdir -p data
