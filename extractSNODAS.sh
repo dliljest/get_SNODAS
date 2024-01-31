@@ -1,6 +1,6 @@
 #!/bin/bash
 # Dane Liljestrand
-# 2023-01-30
+# 2024-01-30
 # Convert NOHRSC SNODAS .tar files to daily .tif files of either SWE or Snow Depth. 
 
 year=2022
